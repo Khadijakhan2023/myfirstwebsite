@@ -1,0 +1,25 @@
+
+.lead{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.px-3{
+    background-image: url(nav.jpg);
+
+}
+.inf{
+    background-color: rgb(18, 79, 133);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    opacity: 0.5;
+}
+.head1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+body {
+    background-color: rgb(158, 164, 119);
+  }
